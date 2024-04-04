@@ -5,6 +5,7 @@
 ## About Naeun
 
 ## Tech Architecture
+![Tech Stack](https://github.com/Naeun-privatebanker/AI-ML/assets/68212300/f3349510-2aac-4de2-8ca7-1794d07a1460)
 
 ## How to Run on Local
 
