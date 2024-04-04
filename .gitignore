@@ -1,0 +1,5 @@
+# Secret
+/env
+
+# For MacOS
+.DS_Store
